@@ -1,0 +1,244 @@
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1713886660590)
++++ b/.idea/modules.xml	(date 1713886660590)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/error file.iml" filepath="$PROJECT_DIR$/error file.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1713886660805)
++++ b/.idea/misc.xml	(date 1713886660805)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(date 1713888385431)
++++ b/.idea/workspace.xml	(date 1713888385431)
+@@ -0,0 +1,84 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="2a9f6f80-b143-43dc-82bc-3b54fba41f64" name="Changes" comment="conditions">
++      <change afterPath="$PROJECT_DIR$/../Code01/src/ArrayImpl.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../Practice/src/PalindromeNumber.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../Practice/src/pyramid.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="ProjectColorInfo"><![CDATA[{
++  "associatedIndex": 7
++}]]></component>
++  <component name="ProjectId" id="2fVWJUjfSsf1QRxdPl3R3ZIGAVS" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "git-widget-placeholder": "master"
++  }
++}]]></component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="2a9f6f80-b143-43dc-82bc-3b54fba41f64" name="Changes" comment="" />
++      <created>1713886656580</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1713886656580</updated>
++    </task>
++    <task id="LOCAL-00001" summary="conditions">
++      <option name="closed" value="true" />
++      <created>1713887248758</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1713887248758</updated>
++    </task>
++    <task id="LOCAL-00002" summary="conditions">
++      <option name="closed" value="true" />
++      <created>1713887498675</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1713887498675</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
++    <servers />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="conditions" />
++    <option name="LAST_COMMIT_MESSAGE" value="conditions" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+--- /dev/null	(date 1713886653475)
++++ b/.gitignore	(date 1713886653475)
+@@ -0,0 +1,29 @@
++### IntelliJ IDEA ###
++out/
++!**/src/main/**/out/
++!**/src/test/**/out/
++
++### Eclipse ###
++.apt_generated
++.classpath
++.factorypath
++.project
++.settings
++.springBeans
++.sts4-cache
++bin/
++!**/src/main/**/bin/
++!**/src/test/**/bin/
++
++### NetBeans ###
++/nbproject/private/
++/nbbuild/
++/dist/
++/nbdist/
++/.nb-gradle/
++
++### VS Code ###
++.vscode/
++
++### Mac OS ###
++.DS_Store
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1713886660926)
++++ b/.idea/vcs.xml	(date 1713886660926)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: ../Practice/src/pyramid.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../Practice/src/pyramid.java b/../Practice/src/pyramid.java
+new file mode 100644
+--- /dev/null	(date 1692090914471)
++++ b/../Practice/src/pyramid.java	(date 1692090914471)
+@@ -0,0 +1,12 @@
++public class pyramid {
++    public static void main(String[] args) {
++        int row=5;
++        for(int i= 0;i<row;i++);{
++            for (int j=0;j<=i;j++);{
++                System.out.println("*");
++            }
++            System.out.println();
++        }
++
++    }
++}
+Index: ../Practice/src/PalindromeNumber.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../Practice/src/PalindromeNumber.java b/../Practice/src/PalindromeNumber.java
+new file mode 100644
+--- /dev/null	(date 1692090552113)
++++ b/../Practice/src/PalindromeNumber.java	(date 1692090552113)
+@@ -0,0 +1,10 @@
++public class PalindromeNumber {
++    public static void main(String[] args) {
++        String str = "madam";
++        StringBuffer new str = new StringBuffer();
++        for (int i = str.length() - 1; i > 0; i--) ;{
++        new str = newStr.append(str.charAt(i));
++    }
++    if (Str.equalsIgnoreCase(newStr.toString()))
++    }
++}
+\ No newline at end of file
+Index: ../Code01/src/ArrayImpl.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../Code01/src/ArrayImpl.java b/../Code01/src/ArrayImpl.java
+new file mode 100644
+--- /dev/null	(date 1691994619267)
++++ b/../Code01/src/ArrayImpl.java	(date 1691994619267)
+@@ -0,0 +1,2 @@
++public class ArrayImpl extends Array {
++}
